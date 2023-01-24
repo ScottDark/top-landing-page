@@ -64,7 +64,8 @@ body {
   font-size: 18px;
 }
 /* Footer Ends */
-/*Content container*/
+
+/*Content containers*/
 .content-container {
   display: flex;
   flex-direction: column;
@@ -73,23 +74,14 @@ body {
   flex: 1;
 }
 
-.hero-section-container {
-  display: flex;
-  align-items: center;
-  flex: 1;
-}
-.information-section-container {
-  display: flex;
-  align-items: center;
-  flex: 1;
-}
-.testimonial-section-container {
-  display: flex;
-  align-items: center;
-  flex: 1;
-}
+.hero-section-container,
+.information-section-container,
+.testimonial-section-container,
 .calltoaction-section-container {
   display: flex;
   align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
   flex: 1;
 }
