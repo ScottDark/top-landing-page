@@ -64,3 +64,32 @@ body {
   font-size: 18px;
 }
 /* Footer Ends */
+/*Content container*/
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+
+.hero-section-container {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+.information-section-container {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+.testimonial-section-container {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+.calltoaction-section-container {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
