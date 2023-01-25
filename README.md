@@ -6,4 +6,5 @@ The Odin Project (TOP) landing page project. Create landing webpage using only h
 
 ### References
 
-hero-cat image - https://www.pexels.com/photo/brown-cat-with-green-eyes-617278/ by Kelvin Valerio
+hero-cat - https://www.pexels.com/photo/brown-cat-with-green-eyes-617278/ by Kelvin Valerio
+headercat - https://www.pexels.com/photo/white-cat-with-bright-blue-eyes-5029082/ by Lucas Pezeta
