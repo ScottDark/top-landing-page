@@ -94,6 +94,7 @@ body {
 .hero-left-container {
   display: flex;
   flex-direction: column;
+  flex: 1;
 }
 
 .hero-header-one {
@@ -115,6 +116,10 @@ body {
 }
 
 /* Right side of hero */
+.hero-right-container {
+  display: flex;
+  flex: 1;
+}
 .hero-cat-img {
   height: auto;
   width: 80vh;
