@@ -14,6 +14,7 @@
 
 .header {
   padding: 4vh;
+  border-bottom: teal solid 3px;
 }
 
 /* Header */
@@ -41,6 +42,7 @@ ul {
   height: 40px;
   width: 50px;
   border-radius: 100%;
+  border: solid teal 3px;
 }
 .header-link {
   color: #e5e7eb;
@@ -107,8 +109,6 @@ body {
   font-size: 48px;
   font-weight: bolder;
   color: #f9faf8;
-  width: 35vh;
-  height: auto;
 }
 
 .hero-para {
