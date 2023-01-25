@@ -31,7 +31,7 @@ ul {
   justify-content: center;
   align-items: center;
   position: relative;
-  right: 15vw;
+  right: 6vw;
 }
 .header-link-container {
   display: flex;
@@ -134,8 +134,6 @@ body {
   max-width: 90%;
   height: auto;
   border-radius: 50%;
-  /* height: auto;
-  width: 80vh; */
 }
 
 /* Hero Content Ends */
