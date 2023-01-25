@@ -25,13 +25,11 @@ ul {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: 15rem;
 }
 .header-link-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-right: 15rem;
 }
 .header-logo {
   text-decoration: none;
