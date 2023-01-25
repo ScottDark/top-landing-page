@@ -205,3 +205,39 @@ p {
   display: flex;
   margin-left: 200px;
 }
+
+/* Call to action content */
+
+.calltoaction-container {
+  display: flex;
+  flex: 1;
+  min-width: 80%;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #3882f6;
+  padding: 50px;
+  margin-left: 250px;
+  margin-right: 250px;
+  border-radius: 25px;
+  color: #e5e7eb;
+}
+
+.calltoaction-left-container {
+  display: flex;
+  font-size: 18px;
+  font-weight: bolder;
+}
+.calltoaction-right-container {
+  display: flex;
+}
+
+.calltoaction-button {
+  background-color: #3882f6;
+  color: #e5e7eb;
+  width: 100px;
+  height: 32px;
+  border-radius: 10px;
+  border: #f9faf8 solid 2px;
+  font-size: 18px;
+  font-weight: bolder;
+}
