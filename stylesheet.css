@@ -69,12 +69,11 @@ body {
 .content-container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   flex: 1;
 }
 
-.hero-section-container,
 .information-section-container,
 .testimonial-section-container,
 .calltoaction-section-container {
@@ -85,3 +84,55 @@ body {
   height: auto;
   flex: 1;
 }
+
+.hero-section-container {
+  display: flex;
+  width: 100%;
+  height: 55vh;
+  background-color: #1f2937;
+  justify-content: ce;
+
+  /* Hero Content */
+}
+
+.hero-left {
+  display: flex;
+  flex-direction: column;
+  margin: 4rem;
+  position: relative;
+  left: 20rem;
+}
+
+.hero-right {
+  display: flex;
+  margin: 4rem;
+  position: relative;
+  left: 20rem;
+}
+
+.signup-button {
+  width: 15rem;
+  height: 3rem;
+  background-color: #3882f6;
+  color: white;
+  border: 0px;
+  border-radius: 12px;
+  font-weight: bolder;
+  font-size: 26px;
+  margin: 1rem;
+}
+
+.hero-headerone {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
+  width: 20rem;
+}
+
+.heropara {
+  font-size: 18px;
+  color: #e5e7eb;
+  width: 20rem;
+}
+
+/* Hero Content End */
