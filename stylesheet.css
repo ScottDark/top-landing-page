@@ -137,3 +137,34 @@ body {
 }
 
 /* Hero Content Ends */
+
+/* Information Content */
+
+.kitty-container {
+  display: flex;
+}
+
+.info-header-one {
+  font-size: 36px;
+  font-weight: bold;
+  color: #1f2937;
+}
+
+/*Resize images*/
+.kittyone-img,
+.kittytwo-img,
+.kittythree-img,
+.kittyfour-img {
+  max-width: 100%;
+  height: auto;
+}
+/* Kitty containers */
+.info-kittyone,
+.info-kittytwo,
+.info-kittythree,
+.info-kittyfour {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 30px;
+}
