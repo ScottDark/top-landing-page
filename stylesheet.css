@@ -91,4 +91,9 @@ body {
   background-color: #1f2937;
 }
 
+.hero-cat-img {
+  height: auto;
+  width: 80vh;
+}
+
 /* Hero Content Ends */
