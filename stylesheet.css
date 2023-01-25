@@ -95,12 +95,16 @@ body {
   display: flex;
   flex-direction: column;
   flex: 1;
+  align-items: center;
+  justify-content: center;
 }
 
 .hero-header-one {
   font-size: 48px;
   font-weight: bolder;
   color: #f9faf8;
+  width: 35vh;
+  height: auto;
 }
 
 .hero-para {
