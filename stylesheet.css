@@ -142,6 +142,7 @@ body {
 
 .kitty-container {
   display: flex;
+  justify-content: space-around;
 }
 
 .info-header-one {
@@ -150,13 +151,15 @@ body {
   color: #1f2937;
 }
 
-/*Resize images*/
+/*Resize images & border*/
 .kittyone-img,
 .kittytwo-img,
 .kittythree-img,
 .kittyfour-img {
   max-width: 100%;
   height: auto;
+  border: teal solid 5px;
+  border-radius: 100%;
 }
 /* Kitty containers */
 .info-kittyone,
