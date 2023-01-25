@@ -195,6 +195,8 @@ p {
   font-style: italic;
   font-weight: light;
   color: #1f2937;
+  max-width: 50%;
+  height: auto;
 }
 
 .whosaidtest {
